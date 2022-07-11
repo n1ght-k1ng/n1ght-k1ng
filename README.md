@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full - Stack Web Development [ MERN ]**
 
-- 💬 Ask me about **Stack & Heap Exploitation , JavaScript , React , Django , GraphQL.**
+- 💬 Ask me about **Binary Exploitation , JavaScript , React , Django , GraphQL.**
 
 - 📫 How to reach me **dn.reddy@hotmail.com**
 
