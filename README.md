@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dn.reddy@hotmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1IAU34h5uCAFU2aqdetj1RijGVwJh84Jw](https://drive.google.com/drive/folders/1IAU34h5uCAFU2aqdetj1RijGVwJh84Jw)
+- 📄 Know about my experiences [Here !!](https://drive.google.com/drive/folders/1IAU34h5uCAFU2aqdetj1RijGVwJh84Jw)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
