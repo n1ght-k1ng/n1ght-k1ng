@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nikhil Reddy</h1>
-<h3 align="center">A passionate frontend developer from India . I'm always eager to explore new subjects and work in a challenging atmosphere so as to have a steep and continuous learning curve.</h3>
+<h3 align="center">A passionate web developer from India . I'm always eager to explore new subjects and work in a challenging atmosphere so as to have a steep and continuous learning curve.</h3>
 
 <p align="left"> <a href="https://twitter.com/n1ght_k7ng" target="blank"><img src="https://img.shields.io/twitter/follow/n1ght_k7ng?logo=twitter&style=for-the-badge" alt="n1ght_k7ng" /></a> </p>
 
 - 🔭 I’m currently working on [NightKing-CMS](https://github.com/n1ght-k1ng/NightKing-CMS)
+
+- 💻 One and a half year CTF experience with **TeamBi0s** (*Binary Exploitaion*) - India's No1 CTF Team.
 
 - 🌱 I’m currently learning **Full - Stack Web Development [ MERN ]**
 
