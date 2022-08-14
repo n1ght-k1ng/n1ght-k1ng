@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil Reddy</h1>
 <h3 align="center">A passionate web developer from India . I'm always eager to explore new subjects and work in a challenging atmosphere so as to have a steep and continuous learning curve.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=n1ght-k1ng&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
 
 <p align="left"> <a href="https://twitter.com/n1ght_k7ng" target="blank"><img src="https://img.shields.io/twitter/follow/n1ght_k7ng?logo=twitter&style=for-the-badge" alt="n1ght_k7ng" /></a> </p>
 
