@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Nikhil Reddy</h1>
-<h3 align="center">A passionate web developer from India . I'm always eager to explore new subjects and work in a challenging atmosphere so as to have a steep and continuous learning curve.</h3>
+<h1 align="center">Hey there 👋, I'm Nikhil Reddy</h1>
+<h3 align="center">As a college student, I was a part of the CTF teambi0s. Over time, I have grown into a full stack MERN developer with interests in both cyber security and blockchain technologies. Through my experiences and knowledge in these areas, I am able to keep up with the constant changes in the tech industry and make contributions where I can. I'm always eager to explore new subjects and work in a challenging atmosphere so as to have a steep and continuous learning curve.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n1ght-k1ng&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
 
 <p align="left"> <a href="https://twitter.com/n1ght_k7ng" target="blank"><img src="https://img.shields.io/twitter/follow/n1ght_k7ng?logo=twitter&style=for-the-badge" alt="n1ght_k7ng" /></a> </p>
 
 
-- 💻 One and a half year CTF experience with **TeamBi0s** ([*Binary Exploitaion*](https://github.com/n1ght-k1ng/Binary-Exploitation)) - India's No1 CTF Team.
+- 💻 One and a half year CTF experience with **TeamBi0s** ([*Binary Exploitaion*](https://github.com/n1ght-k1ng/Binary-Exploitation))
 
-- 🌱 I’m currently learning **Full - Stack Web Development [ MERN ]**
+- 🌱 I’m currently learning **Full-Stack Web3 Development**
 
-- 💬 Ask me about **Binary Exploitation , JavaScript , React , Django , GraphQL.**
+- 💬 Ask me about **Binary Exploitation , JavaScript , React , Django , GraphQL, NodeJs, MongoDB, Blockchain**
 
 - 📫 How to reach me **dn.reddy@hotmail.com**
 
