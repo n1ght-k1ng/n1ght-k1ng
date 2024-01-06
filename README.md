@@ -1,17 +1,10 @@
-<h1 align="center">Hey there 👋, I'm Nikhil Reddy</h1>
-<h3 align="center">I am a full-stack developer with a background interests in cybersecurity and blockchain. I enjoy staying current with tech changes and contributing where I can, and am always eager to learn in a challenging environment.</h3>
+<h1 align="center">Hey, I'm Nikhil Reddy</h1>
+<h3 align="center"> I enjoy staying current with tech changes and contributing where I can, and am always eager to learn in a challenging environment.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n1ght-k1ng&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
 
 <p align="left"> <a href="https://twitter.com/n1ght_k7ng" target="blank"><img src="https://img.shields.io/twitter/follow/n1ght_k7ng?logo=twitter&style=for-the-badge" alt="n1ght_k7ng" /></a> </p>
 
-
-- 💻 One and a half year CTF experience with **TeamBi0s** ([*Binary Exploitaion*](https://github.com/n1ght-k1ng/Binary-Exploitation))
-
-- 🌱 I’m currently learning **Full-Stack Web3 Development**
-
-- 💬 Ask me about **Binary Exploitation , JavaScript , React , Django , GraphQL, NodeJs, MongoDB, Blockchain**
-
-- 📫 How to reach me **dn.reddy@hotmail.com**
+-  Reach me at **dn.reddy@hotmail.com**
 
 - 📄 Know about my experiences [Here !!](https://drive.google.com/drive/folders/1IAU34h5uCAFU2aqdetj1RijGVwJh84Jw)
 
