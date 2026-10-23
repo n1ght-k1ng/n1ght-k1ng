@@ -1,29 +1,48 @@
-### Hello world, I'm Nikhil  👋 
-<p align="center">
- 
-![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+### Hi, I'm Nikhil 👋
 
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=n1ght-k1ng&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
+**Backend engineer** building production distributed systems in **Node.js and TypeScript**: microservices,
+event-driven pipelines and AWS infrastructure. I'm currently a **Senior Software Engineer (Backend & Infrastructure)**
+at Trythat.AI, and previously an exploit developer with **Team bi0s** (#1 in India in CTF).
 
-<p align="left"> <a href="https://twitter.com/n1ght_k7ng" target="blank"><img src="https://img.shields.io/twitter/follow/n1ght_k7ng?logo=twitter&style=for-the-badge" alt="n1ght_k7ng" /></a> </p>
-
--  Reach me at **dn.reddy@hotmail.com**
-
-- 📄 Know about my experiences [Here !!](https://drive.google.com/drive/folders/1IAU34h5uCAFU2aqdetj1RijGVwJh84Jw)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/n1ght_k7ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n1ght_k7ng" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/d-nikhil-reddy-95337a219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/d-nikhil-reddy-95337a219/" height="30" width="40" /></a>
-<a href="https://instagram.com/nick.hiill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nick.hiill" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/n1ght-k1ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="n1ght-k1ng" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dnreddy1412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dnreddy1412" height="30" width="40" /></a>
-<a href="https://discord.gg/NightKing#1663" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NightKing#1663" height="30" width="40" /></a>
+<p>
+  <a href="https://n1ght-k1ng.github.io"><img src="https://img.shields.io/badge/Website-n1ght--k1ng.github.io-047857?style=flat-square" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/dnikhil-reddy/"><img src="https://img.shields.io/badge/LinkedIn-dnikhil--reddy-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:dn.reddy@hotmail.com"><img src="https://img.shields.io/badge/Email-dn.reddy%40hotmail.com-555?style=flat-square&logo=maildotru&logoColor=white" alt="Email"></a>
+  <a href="https://leetcode.com/n1ght-k1ng"><img src="https://img.shields.io/badge/LeetCode-n1ght--k1ng-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+#### ⚙️ What I work on
+- 🏗️ **Microservices on AWS**: a 5-service NestJS platform on ECS, with ALB routing, Terraform and zero-downtime CI/CD across 3 environments
+- 📨 **Event-driven systems**: Kafka pipelines with at-least-once delivery and idempotent consumers (50K+ messages a day)
+- 🗄️ **Databases at scale**: a zero-downtime migration of 180M+ records, query tuning (137s → 43ms) and two-tier Redis caching
+- 💸 **Cost and reliability**: a 32% AWS cost cut and 40% on GCP; I own production on-call on Grafana/Loki
+- 🤖 **AI-native delivery**: I ship with Claude Code, using custom skills, a `CLAUDE.md` and parallel agents
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n1ght-k1ng&" alt="n1ght-k1ng" /></p>
+#### 🧰 Toolbox
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
+#### 🔐 Security & research
+- 📄 [**Quantum-Safe Authentication Protocol for IIoT**](https://ieeexplore.ieee.org/document/10725580), published at the 15th ICCCNT 2024 (IIT Mandi)
+- 🏴 **Team bi0s**: #29 worldwide, #1 in India · two-time **BlackHat USA Student Scholar**
+- 🧩 Designed 6+ original CTF challenges and taught binary exploitation to 3000+ students. See my [binary exploitation work](https://github.com/n1ght-k1ng/Binary-Exploitation).
+
+#### 📌 Side projects
+| Project | What it is |
+|---|---|
+| [NightKing-CMS](https://github.com/n1ght-k1ng/NightKing-CMS) | A full-stack headless CMS (Next.js, Express, MongoDB) |
+| [Midnight-Campaign](https://github.com/n1ght-k1ng/Midnight-Campaign) | Decentralised crowdfunding on Ethereum (Solidity, Next.js) |
+| [Binary-Exploitation](https://github.com/n1ght-k1ng/Binary-Exploitation) | Stack and heap exploitation work from my CTF years |
+
+<sub>Most of my professional work lives in private company repositories.</sub>
